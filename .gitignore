@@ -25,7 +25,7 @@ go.work.sum
 .env
 node_modules
 
-
-results.html
-index.html
-*.tar.gz
+# Add
+/workspaces/api-router/results.html
+/workspaces/api-router/index.html
+/workspaces/api-router/go1.21.3.linux-amd64.tar.gz
