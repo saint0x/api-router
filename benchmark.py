@@ -3,7 +3,6 @@ import asyncio
 import aiohttp
 import time
 import statistics
-import json
 from datetime import datetime
 import psutil
 import sys
